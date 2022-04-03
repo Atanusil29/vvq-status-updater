@@ -1,0 +1,36 @@
+<Property title="Web report" visible="1">
+    <Initial></Initial>
+    <Control>
+        <String/>
+    </Control>
+</Property>
+<Property title="Bar code" visible="1">
+    <Initial></Initial>
+    <Control>
+        <String/>
+    </Control>
+</Property>
+<Property title="Status" visible="1">
+    <Initial></Initial>
+    <Control>
+        <String/>
+    </Control>
+</Property>
+<Property title="Content Server URL" visible="1">
+    <Initial></Initial>
+    <Control>
+        <String/>
+    </Control>
+</Property>
+<Property title="User name" visible="1">
+    <Initial></Initial>
+    <Control>
+        <String/>
+    </Control>
+</Property>
+<Property title="Password" visible="1">
+    <Initial></Initial>
+    <Control>
+        <String/>
+    </Control>
+</Property>
